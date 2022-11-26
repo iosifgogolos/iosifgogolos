@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @iosifgogolos
-- 👀 I’m interested in Cloud based app development and Blockchain
-- 🌱 I’m currently learning Full Stack Cloud Development on IBM Cloud
-- 💞️ I’m looking to collaborate on a peer-to-peer fundraising platform
-- 📫 How to reach me Linked in: Iosif Gogolos
+- 👋 Hi, I’m Iosif!
+
 
 <!---
 iosifgogolos/iosifgogolos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
